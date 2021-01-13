@@ -9,3 +9,5 @@ Piper
 Coach Hedge
 Hazel
 Frank
+Otis
+Arachne
